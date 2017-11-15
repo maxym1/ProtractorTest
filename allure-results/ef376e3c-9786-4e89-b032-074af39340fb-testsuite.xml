@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1510266181528' stop='1510266218226'>
+    <name>Register User</name>
+    <title>Register User</title>
+    <test-cases>
+        <test-case start='1510266181532' status='undefined'>
+            <name>should register new user</name>
+            <title>should register new user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1510266181532' status='passed' stop='1510266218219'>
+            <name>should register new user</name>
+            <title>should register new user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c95f96ce-209d-4ef5-a328-8b93fcc434ee-attachment.png' type='image/png' size='340045'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
